@@ -1,0 +1,4 @@
+njs
+===
+
+NJS Javascript library
